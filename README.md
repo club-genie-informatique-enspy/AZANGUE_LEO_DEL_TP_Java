@@ -27,21 +27,20 @@ Le projet est structuré autour de plusieurs classes principales :
 📦 AZANGUE_LEO_DEL_TP_Java 
 
 - ┣ 📂 src 
-  ┃ ┣ 📂 Package_Bibliotheque 
-  ┃ ┃ ┣ 📜 Livre.java 
-  ┃ ┃ ┣ 📜 Utilisateur.java
-  ┃ ┃ ┣ 📜 Administrateur.java 
-  ┃ ┃ ┣ 📜 Bibliotheque.java 
-  ┃ ┣ 📂 Package_test
-  ┃ ┃ ┣ 📜 Test_Livre.java 
-  ┃ ┃ ┣ 📜 Test_Utilisateur.java
-  ┃ ┃ ┣ 📜 Test_Administrateur.java 
-  ┃ ┣ 📜 Main.java 
-  ┃ ┣ 📜 TestBibliotheque.java
-  ┣ 📜 README.md 
-  ┣ 📜 rapport_gestion_bibliotheque.pdf
-  ┣ 📜 TP_JAVA_103849.pdf
-
+- ┃ ┣ 📂 Package_Bibliotheque 
+- ┃ ┃ ┣ 📜 Livre.java 
+- ┃ ┃ ┣ 📜 Utilisateur.java
+- ┃ ┃ ┣ 📜 Administrateur.java 
+- ┃ ┃ ┣ 📜 Bibliotheque.java 
+- ┃ ┣ 📂 Package_test
+- ┃ ┃ ┣ 📜 Test_Livre.java 
+- ┃ ┃ ┣ 📜 Test_Utilisateur.java
+- ┃ ┃ ┣ 📜 Test_Administrateur.java 
+- ┃ ┣ 📜 Main.java 
+- ┃ ┣ 📜 TestBibliotheque.java
+- ┣ 📜 README.md 
+- ┣ 📜 rapport_gestion_bibliotheque.pdf
+- ┣ 📜 TP_JAVA_103849.pdf
 
 ## 🎮 Modes d'Exécution
 ### **1️⃣ Mode Statique**
